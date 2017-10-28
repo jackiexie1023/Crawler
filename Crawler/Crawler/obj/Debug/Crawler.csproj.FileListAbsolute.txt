@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\Crawler\Crawler\bin\Debug\Crawler.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\Crawler\Crawler\bin\Debug\Crawler.exe
+c:\users\dell\documents\visual studio 2017\Projects\Crawler\Crawler\bin\Debug\Crawler.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Crawler\Crawler\obj\Debug\Crawler.exe
+c:\users\dell\documents\visual studio 2017\Projects\Crawler\Crawler\obj\Debug\Crawler.pdb
